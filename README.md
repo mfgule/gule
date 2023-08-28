@@ -10,7 +10,6 @@
 - R.
 - Spring
 - Angular
-- Node.js
 - Criação e aplicação de testes automatizados.
 - C.
 - C#.
